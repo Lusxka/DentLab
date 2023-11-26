@@ -46,33 +46,33 @@ header a{
 
 }
 
-main{
+.banner{
     background-color: rgb(201, 248, 232);
     padding-top: 350px;
     display: flex;
     justify-content: space-around;
 }
 
-main .texto_header{
+.banner .texto_header{
     margin-top: -300px;
 }
 
-main .div_img_header{
+.banner .div_img_header{
     margin-top: -350px;
 }
 
-main .img_header{
+.banner .img_header{
     width: 400px;
 }
 
-main h1{
+.banner h1{
     font-size: 35px;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 20px;
 }
 
-main p{
+.banner p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-bottom: 30px;
 }
@@ -95,3 +95,54 @@ main p{
     background-color: rgb(53, 7, 95);
     color: #fff; 
 }
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.div_card{
+    background-color:aliceblue;
+    width: 20%;
+    height: 170px;
+    border-radius: 10px;
+    margin-top: -4%;
+    text-align: center;   
+    border-top: 8px solid rgb(255, 174, 0);
+    box-shadow:0 0 10px 10px #666;
+
+ }
+.div_card2{
+    background-color:aliceblue;
+    width: 20%;
+    height: 170px;
+    border-radius: 10px;
+    margin-top: -4%;
+    text-align: center;   
+    border-top: 8px solid rgb(204, 0, 255);
+    box-shadow:0 0 10px 10px #666;
+ }
+.div_card3{
+    background-color:aliceblue;
+    width: 20%;
+    height: 170px;
+    border-radius: 10px;
+    margin-top: -4%;
+    text-align: center;   
+    border-top: 8px solid rgb(219, 161, 52);
+    box-shadow:0 0 10px 10px #666;
+    
+ }
+
+ .div_card img{
+    width: 25%;
+    margin: 3%;
+ }
+ .div_card2 img{
+    width: 25%;
+    margin: 3%;
+ }
+ .div_card3 img{
+    width: 25%;
+    margin: 3%;
+ }
