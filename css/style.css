@@ -147,3 +147,47 @@ header a{
     width: 25%;
     margin: 3%;
  }
+
+.section_servicos{
+    display: flex;
+    gap: 15%;
+    margin: 0% 10%;
+}
+
+.img_servicos{
+    width: 450px;
+}
+
+.div_servicos{
+    margin-top: 13%;
+}
+.div_servicos p{
+    margin-top: 3%;
+}
+.div_servicos h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.div_img_servicos{
+    margin-top: 10%;
+}
+
+ .velocidade{
+    color: #3498db;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+ }
+ .simplicidade{
+    color:#0004ff;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .qualidade{
+    color:#1e71a8;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
