@@ -148,29 +148,29 @@ header a{
     margin: 3%;
  }
 
-.section_servicos{
+.section_descricao{
     display: flex;
     gap: 15%;
     margin: 0% 10%;
 }
 
-.img_servicos{
+.img_descricao{
     width: 450px;
 }
 
-.div_servicos{
+.div_descricao{
     margin-top: 13%;
 }
-.div_servicos p{
+.div_descricao p{
     margin-top: 3%;
 }
-.div_servicos h2{
+.div_descricao h2{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
     font-size: 30px;
 }
 
-.div_img_servicos{
+.div_img_descricao{
     margin-top: 10%;
 }
 
