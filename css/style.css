@@ -158,11 +158,12 @@ header a{
 }
 
 .div_descricao{
-    margin-top: 13%;
+    margin-top: 13%;    
 }
 .div_descricao p{
     margin-top: 3%;
     font-size: 17px;
+    text-align: justify;
 }
 .div_descricao h2{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -175,7 +176,6 @@ header a{
     color: #34d5db;
     font-weight: bold;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
  }
  .simplicidade{
     font-size: 18px;
@@ -259,7 +259,7 @@ header a{
 
 .section_profissionais{
     margin-left: 5%;
-    background-color: #e4edee;
+    background: linear-gradient(to bottom, #a4dce2, #d2d2ee);    
     width: 90%;
     
 }
